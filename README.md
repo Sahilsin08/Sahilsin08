@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sahilsin08
 - 👀 I’m interested in Technology and different technical stuffs
-- 🌱 I’m currently learning Cse from C.V. Raman global University
+- 🌱 I’m currently learning Cse from C.V. Raman Global University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via mail on sahilsinha387@gmail.com
 
